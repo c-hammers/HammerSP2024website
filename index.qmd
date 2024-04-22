@@ -1,5 +1,5 @@
 ---
-title: "Chapin Hammers BBA"
+title: "Chapin Hammers MBA"
 subtitle: "<center>  <br> Business Analytics Major <br> Southern Illinois University Carbondale" 
 image: image/siuimage.jpg
 about:
