@@ -1,0 +1,21 @@
+---
+title: "Chapin Hammers"
+subtitle: "<center>  <br> Business Analytics Major <br> Southern Illinois University Carbondale" 
+image: image/siuimage.jpg
+about:
+  template: jolla
+  links: 
+    - icon: linkedin
+      text: Linkedin
+      href: https://www.linkedin.com/
+    - icon: github
+      text: Github
+      href: https://www.github.com/
+---
+
+
+
+```{r}
+
+```
+

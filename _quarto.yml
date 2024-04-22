@@ -1,0 +1,25 @@
+project:
+  type: website
+
+website:
+  title: "Chapin Hammers"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: Resume/Resume-2024
+        text: Resume 
+      - href: blogs.qmd
+        text: Blogs
+      - href: past_projects.qmd
+        text: Past Projects
+format:
+  html:
+    theme: solar
+    css: styles.css
+    toc: true
+
+
+
