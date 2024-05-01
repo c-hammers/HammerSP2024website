@@ -1,0 +1,14 @@
+---
+title: "Python Demonstration"
+editor: visual
+engine: jupyter
+---
+#Introduction
+```{python}
+import pandas as pd
+import numpy as np
+```
+```{python}
+
+```
+
