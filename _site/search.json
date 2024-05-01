@@ -26,5 +26,12 @@
     "title": "blogs",
     "section": "",
     "text": "No matching items"
+  },
+  {
+    "objectID": "Python Demo.html",
+    "href": "Python Demo.html",
+    "title": "Python Demonstration",
+    "section": "",
+    "text": "#Introduction\n\nimport pandas as pd\nimport numpy as np"
   }
 ]
